@@ -56,8 +56,12 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgba(255,255,255,.7);
+  background-image: url("../img/Background.jpg");
+  background-blend-mode: soft-light;    
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 @media (min-width: 48em) {
   .sidebar {
