@@ -98,6 +98,17 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+.sidebar-nav-button {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-button:hover,
+a.sidebar-nav-button:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-button.active {
+  font-weight: bold;
+}
 
 /* Sticky sidebar
  *
