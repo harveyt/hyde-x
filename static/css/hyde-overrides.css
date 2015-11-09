@@ -21,3 +21,6 @@
 .sidebar-sticky-bottom {
   font-size: 0.75rem;
 }
+.content .post-title a {
+    color: #000;
+}
